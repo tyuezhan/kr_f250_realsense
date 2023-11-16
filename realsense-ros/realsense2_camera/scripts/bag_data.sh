@@ -7,6 +7,7 @@ TOPICS="
 /f250_ariel/mavros/imu/data
 /camera/depth/image_rect_raw
 /camera/depth/camera_info
+/camera/color/image_raw
 /camera/infra1/image_rect_raw
 /camera/infra2/image_rect_raw
 /camera/imu
