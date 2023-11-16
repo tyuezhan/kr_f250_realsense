@@ -4,6 +4,7 @@ TOPICS="
 /tf
 /tf_static
 /dragonfly67/quadrotor_ukf/control_odom
+/f250_ariel/mavros/imu/data
 /camera/depth/image_rect_raw
 /camera/depth/camera_info
 /camera/infra1/image_rect_raw
