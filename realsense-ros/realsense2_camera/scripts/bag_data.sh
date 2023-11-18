@@ -13,6 +13,13 @@ TOPICS="
 /camera/imu
 /camera/aligned_depth_to_color/image_raw
 /camera/aligned_depth_to_color/camera_info
+/scarab40/odom_laser
+/scarab41/odom_laser
+/scarab42/odom_laser
+/scarab43/odom_laser
+/scarab44/odom_laser
+/scarab45/odom_laser
+/scarab46/odom_laser
 "
 
 ALL_TOPICS=$TOPICS
