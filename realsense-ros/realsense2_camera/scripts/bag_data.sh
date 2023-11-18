@@ -20,6 +20,8 @@ TOPICS="
 /scarab44/odom_laser
 /scarab45/odom_laser
 /scarab46/odom_laser
+/camera/depth/camera_info
+/camera/aligned_depth_to_color/camera_info
 "
 
 ALL_TOPICS=$TOPICS
