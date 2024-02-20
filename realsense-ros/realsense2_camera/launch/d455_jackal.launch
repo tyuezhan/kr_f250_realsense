@@ -149,6 +149,5 @@
   </group>
 
 
-    <node pkg="tf2_ros" type="static_transform_publisher" name="static_tf_base_link_to_camera_link" args="0.245 0.0 0.06 0.0, 0.0, 0.0, 1.0 /base_link /camera_link"/>
-
+    <node pkg="tf2_ros" type="static_transform_publisher" name="static_tf_base_link_to_camera_link" args="0.245 0.0 0.226 0.0, 0.0, 0.0, 1.0 /base_link /camera_link"/>
 </launch>
